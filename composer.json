@@ -1,0 +1,6 @@
+{
+    "require": {
+        "topthink/think-orm": "^1.2",
+        "vlucas/phpdotenv": "~2.2"
+    }
+}
