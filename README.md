@@ -1,2 +1,2 @@
 # slimapi
-a slim api framwork.
+In development, It can't be used directly.
